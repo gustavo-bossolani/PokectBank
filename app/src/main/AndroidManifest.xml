@@ -10,7 +10,7 @@
         android:theme="@style/Theme.PokectBank">
 
         <activity
-            android:name=".MainActivity"
+            android:name="com.pokect.bank.kids.MainActivity"
             android:exported="true"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"
