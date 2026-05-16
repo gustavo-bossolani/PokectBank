@@ -1,3 +1,78 @@
 <resources>
     <string name="app_name">PokectBank</string>
+    <string name="tab_home">Início</string>
+    <string name="tab_goals">Metas</string>
+    <string name="tab_missions">Missões</string>
+    <string name="tab_rewards">Prêmios</string>
+    <string name="tab_ranking">Ranking</string>
+    <string name="login_title">PokectBank Kids</string>
+    <string name="login_subtitle">Aprenda a economizar brincando!</string>
+    <string name="login_email">E-mail</string>
+    <string name="login_email_placeholder">seu@email.com</string>
+    <string name="login_password">Senha secreta</string>
+    <string name="login_password_placeholder">••••••••</string>
+    <string name="login_button">Entrar na Aventura!</string>
+    <string name="signup_button">Criar Conta</string>
+    <string name="signup_name_label">Qual é o seu nome?</string>
+    <string name="signup_name_placeholder">Seu nome</string>
+    <string name="signup_continue">Continuar Cadastro</string>
+    <string name="forgot_password">Esqueci minha senha</string>
+    <string name="avatar_title">Escolha seu avatar!</string>
+    <string name="avatar_subtitle">Qual bichinho vai te acompanhar?</string>
+    <string name="avatar_back">← Voltar</string>
+    <string name="avatar_start">Começar a Aventura!</string>
+    <string name="parental_note">Conta supervisionada pelos pais.</string>
+    <string name="learn_more">Saiba mais</string>
+    <string name="login_tab">Entrar</string>
+    <string name="signup_tab">Criar Conta</string>
+    <string name="empty_tab_title">Em breve! 🚀</string>
+    <string name="empty_tab_subtitle">Esta seção estará disponível em breve.</string>
+    <string name="forgot_password_snackbar">Link enviado para o email! 📧</string>
+    <string name="login_error_empty_email">Digite seu e-mail para continuar</string>
+    <string name="login_error_empty_password">Digite sua senha secreta</string>
+    <string name="login_error_empty_name">Qual é o seu nome?</string>
+
+    <!-- Login brand / logo (displayed as two styled parts) -->
+    <string name="login_brand_pocket">Pocket</string>
+    <string name="login_brand_bank_kids">Bank Kids</string>
+
+    <!-- Password visibility toggle content descriptions -->
+    <string name="hide_password">Esconder senha</string>
+    <string name="show_password">Mostrar senha</string>
+
+    <!-- Avatar level label (hardcoded for v1) -->
+    <string name="avatar_level_label">Nível 1 - Iniciante</string>
+
+    <!-- Missions screen -->
+    <string name="missions_screen_title">⭐ Suas Missões</string>
+    <string name="missions_filter_all">Todas</string>
+    <string name="missions_filter_daily">Diárias</string>
+    <string name="missions_filter_weekly">Semanais</string>
+    <string name="missions_filter_special">Especiais</string>
+    <string name="missions_difficulty_easy">Fácil</string>
+    <string name="missions_difficulty_medium">Médio</string>
+    <string name="missions_difficulty_hard">Difícil</string>
+    <string name="missions_progress_label">Progresso %1$d/%2$d</string>
+    <string name="missions_empty_heading">Nenhuma missão ainda!</string>
+    <string name="missions_empty_body">Volte amanhã para novas missões.</string>
+    <string name="missions_reward_xp">⭐ %1$d XP</string>
+    <string name="missions_reward_coins">🪙 %1$d</string>
+
+    <!-- Goals screen -->
+    <string name="goals_screen_title">🎯 Suas Metas</string>
+    <string name="goals_days_remaining">%1$d dias restantes</string>
+    <string name="goals_completed_label">Meta alcançada!</string>
+    <string name="goals_empty_heading">Crie sua primeira meta!</string>
+    <string name="goals_empty_body">Defina um objetivo e comece a economizar.</string>
+
+    <!-- Add Goal modal -->
+    <string name="add_goal_card_text">Adicionar nova meta</string>
+    <string name="add_goal_modal_title">Nova Meta</string>
+    <string name="add_goal_name_label">Nome da meta</string>
+    <string name="add_goal_name_placeholder">Ex: Videogame Novo</string>
+    <string name="add_goal_value_label">Valor alvo (R$)</string>
+    <string name="add_goal_value_placeholder">500</string>
+    <string name="add_goal_deadline_label">Prazo</string>
+    <string name="add_goal_create_button">Criar Meta</string>
+    <string name="add_goal_name_error">Digite um nome para a meta</string>
 </resources>
